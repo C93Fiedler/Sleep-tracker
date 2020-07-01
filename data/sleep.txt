@@ -1,0 +1,27 @@
+example
+wed 01/01/2020: woke up 12:30
+thu 02/01/2020: sleep at 10:30 woke up 16:30
+a 22/01/2020: sleep at 06:50 woke up 14:40 sleep at 15:00 woke up 15:45 sleep at 20:00 woke up 21:00 sleep at 22:00 woke up 23:30
+a 23/01/2020: sleep at 13:00 woke up 17:20
+a 24/01/2020: sleep at 09:20 woke up 20:40
+a 25/01/2020: sleep at 10:40 woke up 21:00
+a 26/01/2020: sleep at 13:45 woke up 19:30
+a 27/01/2020: sleep at 16:05
+a 28/01/2020: woke up 04:15 sleep at 22:55
+a 29/01/2020: woke up 16:00
+a 30/01/2020: sleep at 14:05
+a 31/01/2020: woke up 00:15 sleep at 20:10 woke up 21:00
+a 01/02/2020: sleep at 02:20 woke up 13:20
+a 2/02/2020: sleep at 12:35 woke up 16:00
+a 3/02/2020: sleep at 01:20 woke up 9:00
+a 2/03/2020: sleep at 01:00 woke up 10:00
+a 2/4/2020: sleep at 01:00 woke up 10:00
+a 2/5/2020: sleep at 01:00 woke up 10:00
+a 2/6/2020: sleep at 01:00 woke up 10:00
+a 2/7/2020: sleep at 01:00 woke up 10:00
+a 2/8/2020: sleep at 01:00 woke up 10:00
+a 2/9/2020: sleep at 01:00 woke up 10:00
+a 2/10/2020: sleep at 01:00 woke up 10:00
+a 2/11/2020: sleep at 01:00 woke up 10:00
+a 2/12/2020: sleep at 01:00 woke up 10:00
+a 2/1/2021: sleep at 01:04 woke up 10:01
